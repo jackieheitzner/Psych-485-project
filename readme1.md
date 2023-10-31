@@ -1,5 +1,4 @@
-#+text : Landing Page
-#+author: Jackie
+**Landing Page**
 
 This project has been about learning skills that are relevant and useful for undergraduate students. 
 
