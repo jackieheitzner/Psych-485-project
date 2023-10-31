@@ -2,7 +2,7 @@
 ## Author: Jackie Heitzner
 
 ### Table of Contents:
-**1. [Getting Started](file:gettingstarted/gettingstarted.html)**
+**1. [Getting Started](/gettingstarted/gettingstarted.html)**
 
 This project has been about learning skills that are relevant and useful for undergraduate students. 
 
