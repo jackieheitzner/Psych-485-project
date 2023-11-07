@@ -22,7 +22,7 @@ When using GitHub you have a few options for how you would like to access your r
 
 **Creating a repository for your website**
 
-If you are wanting to create a personal website It is helpful to name your repository after your GitHub account name followed by ".github.io". This can be seen with my own repository for my [website](https://github.com/jackieheitzner/jackieheitzner.github.io_). Since my username is "jackieheitzner" I named my repository after this with the suffix. So in summary if you are wanting to create a repository for your website you would have "jackieheitzner.github.io" or in general "yourusername.github.io".
+If you are wanting to create a personal website It is helpful to name your repository after your GitHub account name followed by ".github.io". This can be seen with my own repository for my [website](https://github.com/jackieheitzner/jackieheitzner.github.io). Since my username is "jackieheitzner" I named my repository after this with the suffix. So in summary if you are wanting to create a repository for your website you would have "jackieheitzner.github.io" or in general "yourusername.github.io".
 
 **GitHub Pages**
 
@@ -36,7 +36,7 @@ To start using the academic pages one, you first need to "fork" the repository. 
 
 **Conclusion**
 
-In summary my website makes use of 2 different repositories. The [repository](https://github.com/jackieheitzner/jackieheitzner.github.io)I base my website off of, and the [repository](https://github.com/jackieheitzner/Psych-485-project) that I have used to host the information for this project. To get to this point you need to have a GitHub account, and a repository from which to host your GitHub page from. 
+In summary my website makes use of 2 different repositories. The [repository](https://github.com/jackieheitzner/jackieheitzner.github.io) I based my website off of, and the [repository](https://github.com/jackieheitzner/Psych-485-project) that I have used to host the information for this project. To get to this point you need to have a GitHub account, and a repository from which to host your GitHub page from. 
 
 
 
