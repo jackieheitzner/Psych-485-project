@@ -2,7 +2,7 @@
 ## Author: Jackie Heitzner
 
 ### Table of Contents:
-**1. [Getting Started](/gettingstarted/gettingstarted.html)**
+**1. [Getting Started](https://jackieheitzner.github.io/Psych-485-project/gettingstarted/gettingstarted.html)**
 
 This project has been about learning skills that are relevant and useful for undergraduate students. 
 
@@ -13,3 +13,5 @@ To demonstrate this skill this website makes use of the following elements:
 4. Citation software integration.
 
 Once I was able to learn these skills my general knowledge about how some of these processes work on a deeper level was enhanced.
+
+
