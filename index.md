@@ -3,6 +3,7 @@
 
 ### Table of Contents:
 **1. [Getting Started](https://jackieheitzner.github.io/Psych-485-project/gettingstarted/gettingstarted.html)**
+**2. [All Things Markdown](https://jackieheitzner.github.io/Psych-485-project/allthingsmarkdown/allthingsmarkdown.html)**
 
 This project has been about learning skills that are relevant and useful for undergraduate students. 
 
