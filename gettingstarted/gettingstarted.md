@@ -1,3 +1,5 @@
+# Getting Started
+
 Hi this page will help you get started with how to achieve all this!
 
 The first thing that you need to do to get started is to create a [GitHub account](https://github.com/join) I would recommend using your school (@uwaterloo.ca) email as there are special educational perks allotted to you. 
