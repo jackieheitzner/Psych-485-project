@@ -8,6 +8,7 @@
 
 **3. [All Things Pandoc](https://jackieheitzner.github.io/Psych-485-project/allthingspandoc/allthingspandoc.html)**
 
+**4. [All Things Citation](https://jackieheitzner.github.io/Psych-485-project/allthingscitation/allthingscitation.html)**
 
 This project has been about learning skills that are relevant and useful for undergraduate students. 
 
