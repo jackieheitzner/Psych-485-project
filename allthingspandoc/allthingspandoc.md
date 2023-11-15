@@ -13,34 +13,33 @@ To instal Pandoc you need to first download the correct package for your compute
 **How to Use Pandoc to Convert From a markdown file to HTML:**
 
 Lets say you wanted to convert your newly written markdown file into an HTML file for your website. You would need to do the following:
+
 1. Opening your terminal (on a mac this should be found in your applications)
-2. It can be helpful to make sure that pandoc is installed. In your terminal window you can type `pandoc --version` you should see something like this:```
-```
-pandoc 3.1.8
 
-Features: +server +lua
+2. It can be helpful to make sure that pandoc is installed. In your terminal window you can type `pandoc --version` you should see something like this:
 
-Scripting engine: Lua 5.4
+	pandoc 3.1.8
+	Features: +server +lua
+	Scripting engine: Lua 5.4
+	User data directory: /Users/jackie/.local/share/pandoc
+	Copyright (C) 2006-2023 John MacFarlane. Web: https://pandoc.org
+	This is free software; see the source for copying conditions. There is no warranty, not even for merchantability or fitness for a particular purpose.
+	
+3. Once you have done that you then need to make sure you are in your correct directory this is so that your computer has access to the correct files that you are trying to convert. 
 
-User data directory: /Users/jackie/.local/share/pandoc
-
-Copyright (C) 2006-2023 John MacFarlane. Web: https://pandoc.org
-
-This is free software; see the source for copying conditions. There is no warranty, not even for merchantability or fitness for a particular purpose.
-```
-3. Once you have done that you then need to make sure you are in your correct directory this is so that your computer has access  to the correct files that you are trying to convert. On a mac this can be done with the following:
-	1. `pwd` will tell you what your current working directory is. 
-	2. `cd` will allow you to change directories 
-	3. `ls` lists what files are in that current directories. 
-	So lets say you have the markdown file on your desktop. You would want to do something like the following:
-	```
-	jackie@Jackies-MacBook-Pro ~ % pwd
+- On a mac this can be done with the following:
+	- "pwd" will tell you what your current working directory is. 
+	- "cd" will allow you to change directories 
+	- "ls" lists what files are in that current directories. 
+	
+- So lets say you have the markdown file on your desktop. You would want to do something like the following:
+	Jackie@Jackies-MacBook-Pro ~ % pwd
 	/Users/jackie
 	jackie@Jackies-MacBook-Pro ~ % cd Desktop
 	jackie@Jackies-MacBook-Pro Desktop % pwd
 	/Users/jackie/Desktop
-	```
-	That blurb shows that I am now working in my Desktop Directory. 
+	That blurb shows that I am now working in my Desktop Directory.
+	
 4. From there you can use the following command to convert your document for macs: `filename.md -o filename.html` this command can be done in reverse as well to go from .html to .md and if this was all done correctly you should now see the same file but in an html format. 
 - For more detailed instructions see the following [website](https://pandoc.org/getting-started.html).
 
