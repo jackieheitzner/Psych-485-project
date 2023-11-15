@@ -6,6 +6,9 @@
 
 **2. [All Things Markdown](https://jackieheitzner.github.io/Psych-485-project/allthingsmarkdown/allthingsmarkdown.html)**
 
+**3. [All Things Pandoc](https://jackieheitzner.github.io/Psych-485-project/allthingspandoc/allthingspandoc.html)**
+
+
 This project has been about learning skills that are relevant and useful for undergraduate students. 
 
 To demonstrate this skill this website makes use of the following elements:
