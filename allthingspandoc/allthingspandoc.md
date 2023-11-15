@@ -45,7 +45,7 @@ Lets say you wanted to convert your newly written markdown file into an HTML fil
 
 **How to Convert to a pdf format:**
 
-Unfortunately, Pandoc on its own does not support pdf conversion. The good new though is that there is software that you can use that works with pandoc to convert to pdf format.  The software that mac users can use is called MacTeX. You can find the download page for MacTeX [here](https://tug.org/mactex/mactex-download.html). 
+Unfortunately, Pandoc on its own does not support pdf conversion. The good news though is that there is software that you can use that works with pandoc to convert to pdf format.  The software that mac users can use is called MacTeX. You can find the download page for MacTeX [here](https://tug.org/mactex/mactex-download.html). 
 - You can follow the installation process and show have successfully installed what you need.   
 - If everything is working correctly you should be able to follow the steps above to be in the correct directory while using the following command `pandoc filename.md -o filename.pdf` you should then see your file as a pdf format. 
 
