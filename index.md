@@ -10,6 +10,8 @@
 
 **4. [All Things Citation](https://jackieheitzner.github.io/Psych-485-project/allthingscitation/allthingscitation.html)**
 
+**5. [Demo](https://jackieheitzner.github.io/demo/)**
+
 This project has been about learning skills that are relevant and useful for undergraduate students. 
 
 To demonstrate this skill this website makes use of the following elements:
