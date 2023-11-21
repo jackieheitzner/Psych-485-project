@@ -4,6 +4,8 @@
 ### Table of Contents:
 **1. [Getting Started](https://jackieheitzner.github.io/Psych-485-project/gettingstarted/gettingstarted.html)**
 
+<a target="_self" href="https://jackieheitzner.github.io/Psych-485-project/gettingstarted/gettingstarted.html" > Britt Test</a>
+
 **2. [All Things Markdown](https://jackieheitzner.github.io/Psych-485-project/allthingsmarkdown/allthingsmarkdown.html)**
 
 **3. [All Things Pandoc](https://jackieheitzner.github.io/Psych-485-project/allthingspandoc/allthingspandoc.html)**
