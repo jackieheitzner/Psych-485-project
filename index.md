@@ -2,7 +2,7 @@
 ## Author: Jackie Heitzner
 
 ### Table of Contents:
-**1. [Getting Started](https://jackieheitzner.github.io/Psych-485-project/gettingstarted/gettingstarted.html)**
+**1. <a target="_self" href="https://jackieheitzner.github.io/Psych-485-project/gettingstarted/gettingstarted.html" > Getting Started</a>**
 
 **2. [All Things Markdown](https://jackieheitzner.github.io/Psych-485-project/allthingsmarkdown/allthingsmarkdown.html)**
 
